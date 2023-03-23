@@ -6,8 +6,8 @@ required for the completion of MPC operations such as Seed generation and Transa
 
 ### Prerequisites:
 
-- [node 17+](https://nodejs.org/en/download/)
-- [yarn 1.22+](https://yarnpkg.com/getting-started/install)
+- [node 18+](https://nodejs.org/en/download/)
+- [yarn classic 1.22+](https://classic.yarnpkg.com/en/docs/install)
 
 For iOS development:
 - [Xcode 14.0+](https://developer.apple.com/xcode/)
@@ -18,14 +18,10 @@ For Android development:
 - [Android Studio](https://developer.android.com/studio)
   - x86_64 Android emulator running Android 30+ (Pixel 5 running S recommended)
   - [Android NDK](https://developer.android.com/ndk)
-- [Java 8](https://www.java.com/download/ie_manual.jsp)
+- [Java 8](https://www.java.com/en/download)
   - [Java JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) (JDK 19 will not work with React Native)
 
 ## Installation
-
-1. [Create a personal access token (classic)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-personal-access-token-classic) with `read:packages:` set.
-2. [Authenticate with your personal access token (classic).](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-to-github-packages)
-3. [Install the package in your React Native project](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#installing-a-package)
 
 With `npm`:
 
@@ -63,7 +59,7 @@ yarn example ios --simulator "iPhone 14" # Build and start the app on iOS simula
 Ensure you have the following [Android environment variables](https://developer.android.com/studio/command-line/variables) set correctly:
 
 -  `ANDROID_HOME`
--  `ANDROID_SDK_ROOT="${ANDROID_HOME{"}`
+-  `ANDROID_SDK_ROOT="${ANDROID_HOME}"`
 -  `ANDROID_NDK_HOME="${ANDROID_HOME}/ndk/<insert ndk version>"`
 -  `ANDROID_NDK_ROOT="${ANDROID_NDK_HOME}"`
 

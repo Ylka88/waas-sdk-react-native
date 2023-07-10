@@ -1,0 +1,14 @@
+com.mpcmw.corekmsutils
+dimen list_item_spacing
+dimen list_item_spacing_half
+id idCancel
+id idL1
+id idL2
+id idL3
+id idL31
+id idL4
+id idSubtitle
+id idTitle
+id imageView
+id textView
+layout bottom_sheet_dialog_layout

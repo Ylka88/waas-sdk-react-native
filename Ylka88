@@ -1,0 +1,9 @@
+{
+   "name": "organizations/6880aac6-4037-4b9a-afb6-919dd2806219/apiKeys/66de19ba-67f2-4bfb-a8cf-1b46b0bb6132",
+   "principal": "4335d09b-22ec-5a2f-8588-32da70c0c3d9",
+   "principalType": "USER",
+   "publicKey": "-----BEGIN EC PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3x8ZQ/xdM1OnahKIgmJHfJQfT6/T\nqT5itfz1NxesHm7Uv+OBpkfOPgZ91LzSAztiJ7SrCNYm+c11WyeRfuMPWA==\n-----END EC PUBLIC KEY-----\n",
+   "privateKey": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIL3LTTJWCB3bGV92Q2A/ColGZ2pFGbXZwKNG6DuuMJnroAoGCCqGSM49\nAwEHoUQDQgAE3x8ZQ/xdM1OnahKIgmJHfJQfT6/TqT5itfz1NxesHm7Uv+OBpkfO\nPgZ91LzSAztiJ7SrCNYm+c11WyeRfuMPWA==\n-----END EC PRIVATE KEY-----\n",
+   "createTime": "2023-08-04T12:54:34.852501799Z",
+   "projectId": "34cfeee4-7c13-44dc-97e7-532eb8da1c34"
+}
